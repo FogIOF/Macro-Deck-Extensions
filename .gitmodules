@@ -193,3 +193,6 @@
 [submodule "Plugins/hashashin.FxCommands"]
 	path = Plugins/hashashin.FxCommands
 	url = https://github.com/hashashin/hashashin.FxCommands
+[submodule "Plugins/TheFogIOF.WNPPlugin"]
+	path = Plugins/TheFogIOF.WNPPlugin
+	url = https://github.com/FogIOF/WNP-Macro-Deck
